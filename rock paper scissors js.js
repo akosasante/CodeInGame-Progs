@@ -80,3 +80,6 @@ while (gameOn = true) {
 	computerChooser();
 	console.log(compare(userChooser, computerChooser));
 }
+
+
+//add a prompt as to whether the player wants to continue after winning or losing, add a win/loss counter and win streak counter, maybe add a high score table (from excel or sql or something)
